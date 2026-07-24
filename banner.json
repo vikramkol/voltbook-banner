@@ -1,1 +1,14 @@
-
+[
+  {
+    "image": "https://raw.githubusercontent.com/vikramkol/voltbook-banner/main/images/banner1.jpg",
+    "link": "https://youtube.com/@yourchannel"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/vikramkol/voltbook-banner/main/images/banner2.jpg",
+    "link": "https://google.com"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/vikramkol/voltbook-banner/main/images/banner3.jpg",
+    "link": "https://wa.me/919999999999"
+  }
+]
