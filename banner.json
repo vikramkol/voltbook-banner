@@ -1,14 +1,14 @@
 [
   {
-    "image": "https://raw.githubusercontent.com/vikramkol/voltbook-banner/main/images/banner1.jpg",
+    "image": "https://raw.githubusercontent.com/vikramkol/voltbook-banner/main/images/banner1.png",
     "link": "https://youtube.com/@yourchannel"
   },
   {
-    "image": "https://raw.githubusercontent.com/vikramkol/voltbook-banner/main/images/banner2.jpg",
+    "image": "https://raw.githubusercontent.com/vikramkol/voltbook-banner/main/images/banner2.png",
     "link": "https://google.com"
   },
   {
-    "image": "https://raw.githubusercontent.com/vikramkol/voltbook-banner/main/images/banner3.jpg",
+    "image": "https://raw.githubusercontent.com/vikramkol/voltbook-banner/main/images/banner3.png",
     "link": "https://wa.me/919999999999"
   }
 ]
